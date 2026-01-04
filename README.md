@@ -8,3 +8,7 @@ Backend-developer.
 * PyGame
 * Flask
 * SQLite
+
+##My soft skills.
+* creativity
+* communication
